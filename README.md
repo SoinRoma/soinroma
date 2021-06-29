@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/soin_roman/)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/soin_roman)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/soinroman/)
-[![Gmail Badge](https://img.shields.io/badge/-SoinRoman-090909?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:soinroma26@gmail.com)](mailto:soinroma26@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-SoinRoman-090909?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:soinroma26@gmail.com)](mailto:soinroma26@gmail.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SoinRoma&anuraghazra&show_icons=true&theme=dark&hide=contribs&card_width=500)
 
