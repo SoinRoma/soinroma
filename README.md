@@ -21,7 +21,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SoinRoma&anuraghazra&show_icons=true&theme=dark&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoinRoma&layout=compact&theme=dark&card_width=245)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoinRoma&layout=compact&theme=dark&card_width=445)
 
 
 
