@@ -19,8 +19,8 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/soinroman/)
 [![Gmail Badge](https://img.shields.io/badge/-SoinRoman-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:soinroma26@gmail.com)](mailto:soinroma26@gmail.com)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SoinRoma&anuraghazra&show_icons=true&theme=dark&hide=contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoinRoma&layout=compact&theme=dark&card_width=445)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SoinRoma&anuraghazra&show_icons=true&theme=dark&hide=contribs&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoinRoma&layout=compact&theme=dark&card_width=500)
 
 
 
