@@ -20,6 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-SoinRoman-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:soinroma26@gmail.com)](mailto:soinroma26@gmail.com)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SoinRoma&anuraghazra&show_icons=true&theme=dark&hide=contribs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoinRoma&hide=TeX&layout=compact&theme=dark)
 
 
 
