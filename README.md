@@ -10,6 +10,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
 
 
 ### Follow Me:
