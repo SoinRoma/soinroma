@@ -20,6 +20,7 @@
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/soin_roman)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5)](https://www.facebook.com/soinroman/)
 [![Gmail Badge](https://img.shields.io/badge/-SoinRoman-090909?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:soinroma26@gmail.com)](mailto:soinroma26@gmail.com)
+[![Linkedin Badge](	https://img.shields.io/badge/-Soin-090909?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://clck.ru/Vh526/)](https://www.linkedin.com/in/soinroman/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SoinRoma&anuraghazra&show_icons=true&theme=dark&hide=contribs&card_width=500)
 
