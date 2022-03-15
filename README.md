@@ -38,10 +38,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-SoinRoman-090909?style=for-the-badge&logo=gmail&logoColor=red&link=mailto:soinroma26@gmail.com)](mailto:soinroma26@gmail.com)
 [![Linkedin Badge](	https://img.shields.io/badge/-Soin-090909?style=for-the-badge&logo=linkedin&logoColor=whitee&link=https://clck.ru/Vh526/)](https://www.linkedin.com/in/soinroman/)
 [![CodePen](https://img.shields.io/badge/-CodePen-090909?style=for-the-badge&logo=CodePen&logoColor=4F7DB3)](https://codepen.io/soinroma)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SoinRoma&anuraghazra&show_icons=true&theme=dark&hide=contribs&card_width=500)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoinRoma&layout=compact&theme=dark&card_width=445&line_height=150&langs_count=10)
-
-
-
