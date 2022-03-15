@@ -10,7 +10,12 @@
 
 <div align="center">
    <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=SoinRoma&theme=react-dark&hide_border=true&area=true" />
-</div> 
+</div>
+
+<div align="center">  
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SoinRoma&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=FFF&text_color=FFF&bg_color=0d1117" alt="Soin Roman github stats" /> 
+  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoinRoma&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
+</div>
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html)
