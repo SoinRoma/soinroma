@@ -4,7 +4,7 @@
 #### I love playing volleyball, reading books and traveling. In my free time I study the Unity engine
 
 <div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=SoinRoma&theme=react-dark&hide_border=true&area=true" />
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=SoinRoma&theme=dark&hide_border=true&area=true" />
 </div> 
 
 ### Languages and Tools:
