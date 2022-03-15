@@ -1,9 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=180&section=header&text=SOIN ROMAN&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Hello+everyone.;My+name's+Roman.;I'm+a+front-end+developer.)](https://git.io/typing-svg)
 
 <div align="center">
    Graduated from the Architectural Lyceum and the Lomonosov Moscow State University in Tashkent.
+</div> 
+
+<div align="center">
    I love playing volleyball, reading books and traveling. In my free time I study the Unity engine
 </div> 
 
