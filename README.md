@@ -17,7 +17,27 @@
   <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoinRoma&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
 </div>
 
-### Languages and Tools:
+<div align="center">
+   Languages and Tools
+</div>
+
+<div align="center">
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+</div>
+
+<div align="center">
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=Laravel)
+</div>
+
+
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
