@@ -3,6 +3,10 @@
 ### Graduated from the Architectural Lyceum and the Lomonosov Moscow State University in Tashkent.
 #### I love playing volleyball, reading books and traveling. In my free time I study the Unity engine
 
+<div align="center">
+   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=SoinRoma&theme=react-dark&hide_border=true&area=true" />
+</div> 
+
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=html)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
