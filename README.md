@@ -48,7 +48,7 @@
 <br /> 
 
 <div align="center">
-<a target="_blank" href="https://t.me/Soin_Roman" style="margin-right: 10px; text-decoration: none;">
+<a target="_blank" href="https://t.me/soin_roman" style="margin-right: 10px; text-decoration: none;">
     <img src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="20" height="20"/>
 </a>
 <a target="_blank" href="https://www.instagram.com/soin_roman/" style="margin-right: 10px; text-decoration: none;">
@@ -69,7 +69,7 @@
 <a target="_blank" href="https://gitlab.com/SoinRoman" style="margin-right: 10px; text-decoration: none;">
     <img src="https://camo.githubusercontent.com/92155145d11c0c16b6d804cf10407c691d134283ced40c36ceecfb885b8b655c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746c61622e737667" width="20" height="20"/>
 </a>
-<a target="_blank" href="https://codepen.io/soinroma" style="margin-right: 10px; text-decoration: none;">
+<a target="_blank" href="https://codepen.io/soin_roman" style="margin-right: 10px; text-decoration: none;">
     <img src="https://camo.githubusercontent.com/a79c8028a36e9021ee36a97ea7c8077f69d5f1296d48ec593e95cfa6db33e2a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f636f646570656e2e737667" width="20" height="20"/>
 </a>
 
