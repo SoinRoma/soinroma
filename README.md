@@ -8,9 +8,6 @@
    I love playing volleyball, reading books and traveling. In my free time I study the Unity engine
 </div> 
 
-<div align="center">
-   <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=SoinRoma&theme=react-dark&hide_border=true&area=true" />
-</div>
 
 <div align="center">  
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=SoinRoma&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=FFF&text_color=FFF&bg_color=0d1117" alt="Soin Roman github stats" /> 
