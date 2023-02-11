@@ -69,5 +69,9 @@
 <a target="_blank" href="https://codepen.io/soin_roman" style="margin-right: 10px; text-decoration: none;">
     <img src="https://camo.githubusercontent.com/a79c8028a36e9021ee36a97ea7c8077f69d5f1296d48ec593e95cfa6db33e2a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f636f646570656e2e737667" width="20" height="20"/>
 </a>
+   
+<a target="_blank" href="https://leetcode.com/soin_roman/" style="margin-right: 10px; text-decoration: none;">
+    <img src="https://camo.githubusercontent.com/a79c8028a36e9021ee36a97ea7c8077f69d5f1296d48ec593e95cfa6db33e2a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f636f646570656e2e737667](https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" width="20" height="20"/>
+</a>
 
 </div> 
